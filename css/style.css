@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=PT+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: pt sans;
+    background-color: grey;
+    color: white;
+}
+
+#logo{
+    font-family: goldman;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    float: left;
+    font-size: 300%;
+    margin-left: 2%;
+}
+
+#logo h1{
+    color: inherit;
+}
+
+#nav{
+    list-style-type: none;
+    letter-spacing: 3px;
+    font-family: goldman;
+    font-size: 200%;
+    color: inherit;
+}
+
+#logo, #nav{
+    line-height: 100px;
+}
+
+#nav li{
+    float: right;
+    margin-right: 50px;
+}
+
+#nav a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#hero-video video{
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+
+#facilities{
+    height: auto;
+}
+
+#facilities-img img{
+    width: 50%;
+    float: left;
+}
+
+#facilities-text{
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+
+#injury{
+    height: 600px;
+}
+
+#injury-img img{
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+#injury-text{
+    width: 50%;
+    height: auto;
+    float: right;
+}
