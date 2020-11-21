@@ -47,39 +47,71 @@ body{
     color: inherit;
 }
 
+.active{
+  border-bottom: 1px solid white;
+}
+
 #hero-video video{
     height: auto;
     width: 100%;
     position: relative;
 }
 
-#facilities{
+.article-img img{
+    width: 45%;
     height: auto;
+    margin-left: 5%;
 }
 
-#facilities-img img{
-    width: 50%;
-    float: left;
-}
-
-#facilities-text{
-    width: 50%;
+.article-text{
+    width: 45%;
+    padding: 2.5%;
     float: right;
-    height: 100%;
 }
 
-#injury{
-    height: 600px;
+.article-header{
+    text-align: center;
+    padding: 50px;
 }
 
-#injury-img img{
-    width: 50%;
+footer{
     height: auto;
-    float: left;
+    background-color: white;
 }
 
-#injury-text{
-    width: 50%;
-    height: auto;
-    float: right;
+.shortcuts{
+    text-align: center;
+}
+
+.shortcuts li{
+    display: inline;
+}
+
+.shortcuts i{
+    margin: 1%;
+    padding: 2%;
+    color: black;
+    font-size: 150%;
+}
+
+@media screen and (max-width: 980px){
+    .article-text{
+        float: none;
+        text-align: center;
+        width: 95%;
+        padding: 2.5%;
+    }
+
+    .article-img img{
+        text-align: center;
+        margin: 0 auto;
+        width: 95%;
+        padding: 2.5%;
+    }
+}
+
+@media screen and (max-width: 1100px){
+    .active{
+        display: none;
+    }
 }
