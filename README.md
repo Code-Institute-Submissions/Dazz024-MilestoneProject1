@@ -78,7 +78,12 @@ User 2:
 I tested the responsiveness with Google Chrome's inbuilt inspect button and also with a site called [Am I Responsive?](http://ami.responsivedesign.is/#).
 
 ## Deployment
-
+### Github pages
+As I will do with this website, you can deploy the project onto GitHub Pages:
+1. Log into GitHub and find this repository.
+2. Click on the cogwheel or settings button and scroll down until you find the "GitHub Pages" section.
+3. Under "Source", click the dropdown box and select "None" and select "Master Branch".
+4. Then after it refreshes scroll back down to find the new published link in the same section.
 
 ## Credits
 ### Content
