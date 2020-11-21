@@ -3,7 +3,7 @@ This is a website which shows off what Superfit Gym has to offer. It shows many 
 videos and photos to show the facilities and people taking advantage of the fantastic facility and lastly, shows off the number of personal trainers and staff members we have to 
 support you and our location and how to get to us or make contact with us.
 
-## User Experince
+## User Experience
 ### User Stories
 User 1 - not yet a gym member, aged 30 wants:
 * To be able to see what the gym looks like.
@@ -16,6 +16,10 @@ User 2 - already a gym member, aged 23 wants:
 * To be able to see a gallery of photos to see if he's potentially there or others that he knows from going to the gym.
 * To see the gym's social media links so he can post and share his own photos.
 
+## Design
+* I main colour scheme is going to be grey and white to make it seem professional and to not take away from the imagery.
+* The two fonts I will be using is PT Sans for the main body and for any big logo headings or big eye catching titles I will use Goldman.
+* I have picked out good imagery which will catch the eye of the user which is why I have picked more dull background colours.
 
 ### Wireframes
 [HomePage](https://drive.google.com/file/d/10PAsavlFGZFDwqZ6qiGkh24WqqRx2ZEk/view?usp=sharing)
@@ -28,22 +32,53 @@ User 2 - already a gym member, aged 23 wants:
 
 ## Features
 ### Existing Features
-1. You can view the website on a mobile as it is responsive.
-2. It has a number of ways to go from one page to another and even go to extrnal sites such as social medias.
-3. You can see the classes that Superfit provides and learn more about what the class actually includes.
-
-### Features yet to be implamented
-1. The ability to add your own photos.
-2. The ability to sign up for newsletters and promotional offers.
-3. The ability to book a class or sign up for a membership.
+1. You can view the website on any device as it is responsive.
+2. It has a number of ways to go from one page to another and even go to external sites such as social medias.
+3. There are interactive elements such as the video player.
 
 ## Technologies Used
-1. I used font awesome's PT Sans font and their Goldman font and integrated it into the website through their prebuilt script.
-2. I used font awesome library 
+### Languages Used
+1. HTML
+2. CSS
+
+### Frameworks, Libraries & Programs Used
+1. [Google font's](https://fonts.google.com/) for PT Sans font and their Goldman font and integrated it into the website through their prebuilt script.
+2. [font awesome](https://fontawesome.com/icons?d=gallery) for their library of little icons to help to user navigate easier and make the website more user friendly.
+3. Balsamiq to create the wireframes for planning and design.
+4. [Google Drive](https://drive.google.com/drive/folders/18TDcl1zHzYUL-oCjNpos7cc0wtPOEWqt?usp=sharing) to store my wireframes.
+5. Git for pushing to github and maintaining version control.
+6. Github to store my repositories and to push to.
 
 ## Testing
+### Validator
+Firstly, I tested my code with the W3C Markup Validator and W3C CSS Validator Services to ensure there were no syntax errors in my code.
+* [W3C Markup Validator](https://validator.w3.org/#validate_by_input+with_options) - [Results](https://drive.google.com/file/d/1-lTu6HpSJ5ulDgJ1DzZm8vZRPc7yJghL/view?usp=sharing)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://drive.google.com/file/d/1YhItpF8qjYrKxXeHI22hrW6PGDrnX5-T/view?usp=sharing)
+
+### User Experience Testing
+User 1:
+* Be able to see what the gym looks like.
+    * They are immediately greeted with a video of the gym and other photos on the homepage.
+* Be able to see who they would be able to contact if they needed any support or more information,
+    * In the about page you may find staff members and their contact details.
+* See where it is located so they will know how long their commute would be.
+    * In the about section you can see where the gym is located and how to get there.
+* A place to see ongoing classes.
+    * In the classes page you can see what classes are running and what they are.
+
+User 2:
+* Be able to easily find the contact details of staff members.
+    * You can find staff contact details in the about section.
+* Be able to see a gallery of photos to see if he's potentially there or others that he knows from going to the gym.
+    * There is a gallery page where you can see pictures of others in the gym.
+* See the gym's social media links so he can post and share his own photos.
+    * All along the footer there are shortcuts and external links to social media pages.
+
+### Responsiveness
+I tested the responsiveness with Google Chrome's inbuilt inspect button and also with a site called [Am I Responsive?](http://ami.responsivedesign.is/#).
 
 ## Deployment
+
 
 ## Credits
 ### Content
