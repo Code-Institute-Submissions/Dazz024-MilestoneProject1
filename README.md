@@ -28,10 +28,18 @@ User 2 - already a gym member, aged 23 wants:
 
 ## Features
 ### Existing Features
+1. You can view the website on a mobile as it is responsive.
+2. It has a number of ways to go from one page to another and even go to extrnal sites such as social medias.
+3. You can see the classes that Superfit provides and learn more about what the class actually includes.
 
 ### Features yet to be implamented
+1. The ability to add your own photos.
+2. The ability to sign up for newsletters and promotional offers.
+3. The ability to book a class or sign up for a membership.
 
 ## Technologies Used
+1. I used font awesome's PT Sans font and their Goldman font and integrated it into the website through their prebuilt script.
+2. I used font awesome library 
 
 ## Testing
 
@@ -39,12 +47,33 @@ User 2 - already a gym member, aged 23 wants:
 
 ## Credits
 ### Content
+* [Paragraph about yoga](https://www.nhs.uk/live-well/exercise/guide-to-yoga/).
+* [Paragraph about Crossfit](https://www.crossfit.com/what-is-crossfit/).
+* [Paragraph about circuit training](https://www.acefitness.org/education-and-resources/lifestyle/blog/6750/circuit-training-basics/).
+* [Paragraph about Emily](https://www.underground-gym.com/emily-sanderson).
+* [Paragraph about Reuben](https://www.underground-gym.com/reuben-shamlou).
 
 ### Media
-* The main [Hero Video](https://www.pexels.com/video/4754037/) courtesy of cottonbro from Pexels.
-* The [Minor Injury](https://images.pexels.com/photos/3760275/pexels-photo-3760275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) image courtesy of Andrea Piacquadio from Pexels.
-* The [Factilities](https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) imagine with a treadmill in it courtesy of 
-William Choquette from Pexels.
+* [Hero Video](https://www.pexels.com/video/4754037/) Video by cottonbro from Pexels.
+* [Ankle Injury](https://images.pexels.com/photos/3760275/pexels-photo-3760275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Andrea Piacquadio from Pexels.
+* [Treadmill](https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by William Choquette from Pexels.
+#### Gallery photos
+* [Dumbell girl](https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by The Lazy Artist Gallery from Pexels.
+* [Kettlebell Girl](https://images.pexels.com/photos/416809/pexels-photo-416809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Pixabay from Pexels.
+* [Rope man](https://images.pexels.com/photos/4752861/pexels-photo-4752861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by cottonbro from Pexels.
+* [Dumbell man](https://images.pexels.com/photos/3490348/pexels-photo-3490348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Mister Mister from Pexels.
+* [Woman butterfly machine](https://images.pexels.com/photos/1111304/pexels-photo-1111304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by mentatdgt from Pexels.
+* [Woman dumbell shoulder workout](https://images.pexels.com/photos/2475878/pexels-photo-2475878.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Li Sun from Pexels.
+* [Man Squatting](https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Leon Martinez from Pexels.
+* [Man lunging with dumbells](https://images.pexels.com/photos/2105493/pexels-photo-2105493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Kuldeep Singhania from Pexels.
+#### Classes photos
+* [Yoga girls](https://images.pexels.com/photos/3735471/pexels-photo-3735471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Polina Tankilevitch from Pexels.
+* [Man and woman ropes](https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Leon Martinez from Pexels.
+* [Girls passing medicine ball](https://images.pexels.com/photos/4662341/pexels-photo-4662341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Anthony Shkraba from Pexels.
+#### About photos
+* [Pointing at a map](https://images.pexels.com/photos/1468657/pexels-photo-1468657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Skitterphoto from Pexels.
+* [Selfie of Emily](https://images.pexels.com/photos/1085517/pexels-photo-1085517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Hannah Nelson from Pexels.
+* [Selfie of Reuben](https://images.pexels.com/photos/1334945/pexels-photo-1334945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) Photo by Key Notez from Pexels.
 
 ### Acknowledgements
 * I took inspireation on a previous project called Love Running which helped me out
