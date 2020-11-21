@@ -74,8 +74,10 @@ User 2:
 * See the gym's social media links so he can post and share his own photos.
     * All along the footer there are shortcuts and external links to social media pages.
 
-### Responsiveness
-I tested the responsiveness with Google Chrome's inbuilt inspect button and also with a site called [Am I Responsive?](http://ami.responsivedesign.is/#).
+### Further Testing
+* I tested the responsiveness with Google Chrome's inbuilt inspect button and also with a site called [Am I Responsive?](http://ami.responsivedesign.is/#).
+* I have tested all clickable links and the video player.
+* I have tested the deploying it to GitHub Pages.
 
 ## Deployment
 ### Github pages
